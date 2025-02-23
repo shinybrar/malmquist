@@ -1,0 +1,2 @@
+# malmquist
+Malmquist Bias
